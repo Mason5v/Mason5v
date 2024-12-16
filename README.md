@@ -1,27 +1,2 @@
-DO NOT READ ME
-.
-.
-.
-.
-.
-.
-.
-.
-..
-..
-...
-...
-...
-...
-...
-...
-..
-..
-.
-.
-.
-.
-.
-.
-
-hOw dArE yOu
+Aspiring Full Stack Dev and Data Scientist. 
+Python - SQL - Tableau - Flask
